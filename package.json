@@ -1,7 +1,7 @@
 {
-  "name": "Agusbot",
+  "name": "Yunusbot",
   "version": "1.0.0",
-  "description": "Termux whatsapp bot",
+  "description": "Replit whatsapp bot",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AgusAliansyah/vvipbot-wa"
+    "url": "git+https://github.com/myunussandiv2/vvipbot-wa"
   },
   "keywords": [
     "K"
   ],
-  "author": "Agusbot",
+  "author": "Muhammad Yunus Sandi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AgusAliansyah/vvipbot-wa/issues"
+    "url": "https://github.com/myunussandiv2/vvipbot-wa/issues"
   },
-  "homepage": "https://github.com/AgusAliansyah/vvipbot-wa#readme"
+  "homepage": "https://github.com/myunussandiv2/vvipbot-wa#readme"
 }
